@@ -7,7 +7,7 @@ Site desenvolvido para cadastro e localização de pontos do coleta de resíduos
 
 ### Tecnologias Utilizada
 
-NodeJS
+ReactJS
 
 ### Conteúdo da Pasta
 
